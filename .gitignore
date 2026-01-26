@@ -1,0 +1,23 @@
+# Datasets
+data/
+dataset/
+datasets/
+*.csv
+*.pcap
+*.zip
+
+# Models
+*.h5
+*.pt
+*.pth
+*.pkl
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
